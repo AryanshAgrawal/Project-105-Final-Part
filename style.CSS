@@ -1,0 +1,32 @@
+.heading{
+    background-color: rgb(255, 255, 255);
+    width: 80%;
+    font-size: 22px;
+    }
+    body{
+    background-color: rgb(187, 215, 241);
+    color: rgb(238, 8, 8);
+    }
+    .NameofObjects{
+    font-size: 15px;
+    color: rgba(252, 251, 250, 0.856);
+    }
+    #camera{
+    
+    width: 350px;
+    height: 300px;
+    
+    }
+    #cameraresult{
+    
+    width: 350px;
+    height: 300px;
+    
+    }
+    #resultobjectaccuracy{
+    color: burlywood;
+    }
+    #resultobjectname{
+        color: burlywood;
+        }
+    
